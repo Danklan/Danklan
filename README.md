@@ -1,5 +1,6 @@
-### Hi there 👋
+### Nice to meet you!
 
+I code for fun. I'm not exactly sure what I'm doing, but let's get it!
 <!--
 **Danklan/Danklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
